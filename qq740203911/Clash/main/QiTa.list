@@ -1,0 +1,47 @@
+# DOMAIN,
+# DOMAIN-SUFFIX,
+# DOMAIN-KEYWORD,
+# DOMAIN-WILDCARD,
+
+#虎云
+DOMAIN-KEYWORD,.huyun.
+#虎云（中文）
+DOMAIN-SUFFIX,xn--9kqt27k.com
+
+#V2EX技术社区
+DOMAIN-SUFFIX,v2ex.com
+
+#游戏相关网站
+DOMAIN-SUFFIX,fitgirl-repacks.site
+DOMAIN-SUFFIX,dodi-repacks.site
+DOMAIN-SUFFIX,riotpixels.com
+
+#Reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+
+#AI模型库
+DOMAIN-SUFFIX,huggingface.co
+
+DOMAIN-SUFFIX,XVideos.com
+DOMAIN-SUFFIX,Pornhub.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-KEYWORD,xbookcn.
+
+#Clash
+DOMAIN-KEYWORD,.metacubex.
+#圈x
+DOMAIN-KEYWORD,quantumult.
+#Loon
+DOMAIN-KEYWORD,nsloon.
+#GEOIP
+DOMAIN-KEYWORD,jsdelivr.
+DOMAIN-SUFFIX,maxmind.com
+
+#油猴
+DOMAIN-KEYWORD,tampermonkey.
+DOMAIN-KEYWORD,userscript.
+DOMAIN-KEYWORD,greasyfork.
+
+#Notepad ++
+DOMAIN-SUFFIX,notepad-plus-plus.org
